@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Section 2 - Application of Act to processing of personal data.
+parent: CHAPTER I (1-3) - PRELIMINARY
 nav_order: 1
-parent: Chapter 1 (1-3) - Preliminary
 ---
 
 

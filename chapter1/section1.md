@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Section 1 - Short title and commencement
-nav_order: 1
-parent: Chapter 1 (1-3) - Preliminary
+parent: CHAPTER I (1-3) - PRELIMINARY
+nav_order: 0
 ---
 
 

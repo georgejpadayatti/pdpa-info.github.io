@@ -4,10 +4,10 @@
 
 layout: home
 nav_order: 0
-title: Personal Data Protection Bill 2019
+title: PERSONAL DATA PROTECTION BILL, 2019
 ---
 
-# Personal Data Protection Bill, 2019
+# PERSONAL DATA PROTECTION BILL, 2019
 {: .text-center}
 ## PDPA
 {: .text-center}

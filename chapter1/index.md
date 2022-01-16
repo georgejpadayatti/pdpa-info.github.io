@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Chapter 1 (1-3) - Preliminary
-nav_order: 0
+title: CHAPTER I (1-3) - PRELIMINARY
 has_children: true
 permalink: chapter1
+nav_order: 1
 ---
 
 
-# Chapter 1
+# CHAPTER I
 {: .text-center}
-## Preliminary
+## PRELIMINARY
 {: .text-center}
 
 
