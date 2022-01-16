@@ -20,7 +20,8 @@ domain: "pdpa-info.github.io"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://pdpa-info.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pdpa-info.in" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
 
 twitter_username: georgepadayatti
 
