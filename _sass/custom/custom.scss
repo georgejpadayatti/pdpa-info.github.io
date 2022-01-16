@@ -1,7 +1,7 @@
 @media (min-width: 50rem) {
     .site-header {
-        height: 100px;
-        max-height: 100px;
+        height: 156px;
+        max-height: 156px;
         border-bottom: 1px solid #eeebee;
     }
 
@@ -18,3 +18,12 @@
     list-style-type: none !important;
 }
 
+@media (min-width: 66.5rem){
+    .site-nav, .site-header, .site-footer {
+        width: 370px;
+    }
+}
+
+.site-header {
+    min-height: 100px;
+}
