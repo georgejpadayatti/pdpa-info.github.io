@@ -5,15 +5,7 @@ title: PERSONAL DATA PROTECTION BILL, 2019
 email: georgejpadayatti@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Bill to provide for protection of the privacy of individuals relating to their personal data,
-  specify the flow and usage of personal data, create a relationship of trust between
-  persons and entities processing the personal data, protect the rights of individuals
-  whose personal data are processed, to create a framework for organisational and
-  technical measures in processing of data, laying down norms for social media
-  intermediary, cross-border transfer, accountability of entities processing personal
-  data, remedies for unauthorised and harmful processing, and to establish a Data
-  Protection Authority of India for the said purposes and for matters connected therewith
-  or incidental thereto.
+  PERSONAL DATA PROTECTION BILL, 2019
 
 
 domain: "pdpa-info.github.io"
@@ -46,3 +38,6 @@ gh_edit_repository: "https://github.com/georgejpadayatti/pdpa-info.github.io" # 
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+plugins:
+  - jekyll-seo-tag
